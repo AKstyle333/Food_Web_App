@@ -1,0 +1,8 @@
+.ri-search-eye-line {
+    top: 6px;
+    right: 12px;
+}
+.btn-active:focus,
+.btn-active:active {
+    color: var(--red);
+}
